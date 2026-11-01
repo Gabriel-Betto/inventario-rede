@@ -1,0 +1,2 @@
+# Opcional: só necessário para a opção --xlsx
+openpyxl>=3.1

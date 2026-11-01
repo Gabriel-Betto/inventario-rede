@@ -1,0 +1,7 @@
+saida/
+dados_reais/
+*.xlsx
+__pycache__/
+*.pyc
+.venv/
+*.zip
