@@ -1,0 +1,4 @@
+gateway (192.168.10.1) at 00:0c:29:aa:00:01 [ether] on eth0
+? (192.168.10.152) at 3c:52:82:15:00:51 [ether] on eth0
+? (192.168.10.153) at <incomplete> on eth0
+? (192.168.10.170) at 3c:52:82:15:00:70 [ether] on eth0

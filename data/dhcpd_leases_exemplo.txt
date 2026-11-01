@@ -1,0 +1,45 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# Dados FICTÍCIOS, só para exemplo.
+
+lease 192.168.10.150 {
+  starts 3 2026/10/28 12:00:00;
+  ends 3 2026/10/28 14:00:00;
+  cltt 3 2026/10/28 12:00:00;
+  binding state active;
+  next binding state free;
+  hardware ethernet 3c:52:82:15:00:50;
+  client-hostname "pc-vendas-01";
+}
+
+lease 192.168.10.151 {
+  starts 3 2026/10/28 12:10:00;
+  ends 3 2026/10/28 14:10:00;
+  binding state active;
+  next binding state free;
+  hardware ethernet 3c:52:82:15:00:51;
+  client-hostname "notebook-rh-02";
+}
+
+lease 192.168.10.160 {
+  starts 2 2026/10/27 09:00:00;
+  ends 2 2026/10/27 11:00:00;
+  binding state active;
+  next binding state free;
+  hardware ethernet 3c:52:82:15:00:60;
+  client-hostname "pc-antigo";
+}
+
+lease 192.168.10.160 {
+  starts 2 2026/10/27 11:30:00;
+  ends 2 2026/10/27 11:30:00;
+  binding state free;
+  hardware ethernet 3c:52:82:15:00:60;
+}
+
+lease 192.168.10.170 {
+  starts 3 2026/10/28 13:00:00;
+  ends 3 2026/10/28 15:00:00;
+  binding state active;
+  next binding state free;
+  hardware ethernet 3c:52:82:15:00:70;
+}

@@ -1,0 +1,15 @@
+
+Interface: 192.168.10.50 --- 0x4
+  Endereço IP           Endereço físico       Tipo
+  192.168.10.1          00-0c-29-aa-00-01     dinâmico
+  192.168.10.10         00-0c-29-aa-00-10     dinâmico
+  192.168.10.11         00-0c-29-aa-00-11     dinâmico
+  192.168.10.20         00-1b-44-11-22-99     dinâmico
+  192.168.10.77         f0-de-f1-77-77-77     dinâmico
+  192.168.10.120        00-0c-29-bb-01-20     dinâmico
+  192.168.10.150        3c-52-82-15-00-50     dinâmico
+  192.168.10.151        3c-52-82-15-00-51     dinâmico
+  192.168.10.255        ff-ff-ff-ff-ff-ff     estático
+  224.0.0.22            01-00-5e-00-00-16     estático
+  239.255.255.250       01-00-5e-7f-ff-fa     estático
+  255.255.255.255       ff-ff-ff-ff-ff-ff     estático

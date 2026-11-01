@@ -1,0 +1,8 @@
+ip;mac;hostname;descricao
+192.168.10.1;00:0c:29:aa:00:01;pfsense;Firewall e gateway
+192.168.10.10;00:0c:29:aa:00:10;srv-ad01;Controlador de domínio
+192.168.10.11;00:0c:29:aa:00:11;srv-proxmox01;Host de virtualização
+192.168.10.20;00:1b:44:11:22:33;impressora-rh;Impressora do RH
+192.168.10.21;00:11:22:33:44:21;dvr-01;DVR das câmeras
+192.168.10.120;00:0c:29:bb:01:20;srv-app01;Servidor de aplicação
+192.168.10.30;zz:zz:zz;switch-01;MAC inválido de propósito, para mostrar o aviso
